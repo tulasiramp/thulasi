@@ -1,0 +1,46 @@
+c:\users\amma\documents\visual studio 2015\Projects\IAS Marketplace\IAS Marketplace\bin\ApplicationInsights.config
+c:\users\amma\documents\visual studio 2015\Projects\IAS Marketplace\IAS Marketplace\bin\roslyn\csc.exe
+c:\users\amma\documents\visual studio 2015\Projects\IAS Marketplace\IAS Marketplace\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\amma\documents\visual studio 2015\Projects\IAS Marketplace\IAS Marketplace\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\amma\documents\visual studio 2015\Projects\IAS Marketplace\IAS Marketplace\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\amma\documents\visual studio 2015\Projects\IAS Marketplace\IAS Marketplace\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\amma\documents\visual studio 2015\Projects\IAS Marketplace\IAS Marketplace\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\amma\documents\visual studio 2015\Projects\IAS Marketplace\IAS Marketplace\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\amma\documents\visual studio 2015\Projects\IAS Marketplace\IAS Marketplace\bin\roslyn\System.Collections.Immutable.dll
+c:\users\amma\documents\visual studio 2015\Projects\IAS Marketplace\IAS Marketplace\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\amma\documents\visual studio 2015\Projects\IAS Marketplace\IAS Marketplace\bin\roslyn\vbc.exe
+c:\users\amma\documents\visual studio 2015\Projects\IAS Marketplace\IAS Marketplace\bin\roslyn\VBCSCompiler.exe
+c:\users\amma\documents\visual studio 2015\Projects\IAS Marketplace\IAS Marketplace\bin\roslyn\VBCSCompiler.exe.config
+c:\users\amma\documents\visual studio 2015\Projects\IAS Marketplace\IAS Marketplace\bin\IAS Marketplace.dll.config
+c:\users\amma\documents\visual studio 2015\Projects\IAS Marketplace\IAS Marketplace\bin\IAS Marketplace.dll
+c:\users\amma\documents\visual studio 2015\Projects\IAS Marketplace\IAS Marketplace\bin\IAS Marketplace.pdb
+c:\users\amma\documents\visual studio 2015\Projects\IAS Marketplace\IAS Marketplace\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\amma\documents\visual studio 2015\Projects\IAS Marketplace\IAS Marketplace\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\amma\documents\visual studio 2015\Projects\IAS Marketplace\IAS Marketplace\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\amma\documents\visual studio 2015\Projects\IAS Marketplace\IAS Marketplace\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\amma\documents\visual studio 2015\Projects\IAS Marketplace\IAS Marketplace\bin\Microsoft.AI.Web.dll
+c:\users\amma\documents\visual studio 2015\Projects\IAS Marketplace\IAS Marketplace\bin\Microsoft.AI.WindowsServer.dll
+c:\users\amma\documents\visual studio 2015\Projects\IAS Marketplace\IAS Marketplace\bin\Microsoft.ApplicationInsights.dll
+c:\users\amma\documents\visual studio 2015\Projects\IAS Marketplace\IAS Marketplace\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\amma\documents\visual studio 2015\Projects\IAS Marketplace\IAS Marketplace\bin\Microsoft.Web.Infrastructure.dll
+c:\users\amma\documents\visual studio 2015\Projects\IAS Marketplace\IAS Marketplace\bin\System.Web.Helpers.dll
+c:\users\amma\documents\visual studio 2015\Projects\IAS Marketplace\IAS Marketplace\bin\System.Web.Mvc.dll
+c:\users\amma\documents\visual studio 2015\Projects\IAS Marketplace\IAS Marketplace\bin\System.Web.Razor.dll
+c:\users\amma\documents\visual studio 2015\Projects\IAS Marketplace\IAS Marketplace\bin\System.Web.Webpages.Deployment.dll
+c:\users\amma\documents\visual studio 2015\Projects\IAS Marketplace\IAS Marketplace\bin\System.Web.Webpages.dll
+c:\users\amma\documents\visual studio 2015\Projects\IAS Marketplace\IAS Marketplace\bin\System.Web.Webpages.Razor.dll
+c:\users\amma\documents\visual studio 2015\Projects\IAS Marketplace\IAS Marketplace\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\amma\documents\visual studio 2015\Projects\IAS Marketplace\IAS Marketplace\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\amma\documents\visual studio 2015\Projects\IAS Marketplace\IAS Marketplace\bin\Microsoft.AI.Web.xml
+c:\users\amma\documents\visual studio 2015\Projects\IAS Marketplace\IAS Marketplace\bin\Microsoft.AI.WindowsServer.xml
+c:\users\amma\documents\visual studio 2015\Projects\IAS Marketplace\IAS Marketplace\bin\Microsoft.ApplicationInsights.xml
+c:\users\amma\documents\visual studio 2015\Projects\IAS Marketplace\IAS Marketplace\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\amma\documents\visual studio 2015\Projects\IAS Marketplace\IAS Marketplace\bin\System.Web.Razor.xml
+c:\users\amma\documents\visual studio 2015\Projects\IAS Marketplace\IAS Marketplace\bin\System.Web.Webpages.xml
+c:\users\amma\documents\visual studio 2015\Projects\IAS Marketplace\IAS Marketplace\bin\System.Web.Webpages.Deployment.xml
+c:\users\amma\documents\visual studio 2015\Projects\IAS Marketplace\IAS Marketplace\bin\System.Web.Webpages.Razor.xml
+c:\users\amma\documents\visual studio 2015\Projects\IAS Marketplace\IAS Marketplace\bin\System.Web.Helpers.xml
+c:\users\amma\documents\visual studio 2015\Projects\IAS Marketplace\IAS Marketplace\bin\System.Web.Mvc.xml
+c:\users\amma\documents\visual studio 2015\Projects\IAS Marketplace\IAS Marketplace\obj\Debug\IAS Marketplace.csprojResolveAssemblyReference.cache
+c:\users\amma\documents\visual studio 2015\Projects\IAS Marketplace\IAS Marketplace\obj\Debug\IAS Marketplace.dll
+c:\users\amma\documents\visual studio 2015\Projects\IAS Marketplace\IAS Marketplace\obj\Debug\IAS Marketplace.pdb
